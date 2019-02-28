@@ -1,0 +1,5 @@
+*.pyc
+data/cat
+data/lizard
+data/tentacle_real
+data/tentacle_rendered
