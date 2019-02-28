@@ -1,5 +1,6 @@
 import numpy as np
 import skimage as skim
+import skimage.io
 
 def calibrated_gray(images, lights):
     """ Compute calibrated photometric stereo on a stack of grayscale images.
